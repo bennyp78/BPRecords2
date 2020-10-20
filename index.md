@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="styles.css">
+<head>
+<title>BPRecords</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/bennyp78/BPRecords2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1>BPRecords</h1>
+<p>
+<img src="logo.png" alt="The EP cover" width="500" height="350" >
+</p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<h2>What is BPRecords</h2>
+<p>BP records is a great record lable made by the awesome rapper Benny Pedley. BPrecords also have a great artist under the name lil big penis/Devious north and he is just ok. but in good news they are many great arists that are going to be signed to BPRecords in the future.  </p>
 
-- Bulleted
-- List
+<h3>Music</h3>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/315178539&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-1. Numbered
-2. List
+<div class="links"
+<p>
+<a href="https://unitedmasters.com/benny-pedley">steam the music on all streaming servieces </a>
 
-**Bold** and _Italic_ and `Code` text
+</p>
+<a  href="https://www.youtube.com/channel/UCxmN3EWaK2zPo6ShM11wgrA?view_as=subscriber">Visit our Youtube channel</a>
+</p>
+</div>
+</iframe>
+</body>
+</html>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bennyp78/BPRecords2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
